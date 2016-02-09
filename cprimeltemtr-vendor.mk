@@ -19,6 +19,5 @@ PRODUCT_PACKAGES += \
     TimeService \
     libHevcSwDecoder \
     libmm-abl \
-    libtime_genoff
 
 $(call inherit-product, vendor/samsung/cprimeltemtr/cprimeltemtr-vendor-blobs.mk)
